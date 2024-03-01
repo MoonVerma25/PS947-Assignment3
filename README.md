@@ -86,5 +86,5 @@ ggplot(new_data, aes(x = Mode, y = prob)) +
 
 
 # Question 1: 
-#Repository has been made on github in which changes has been commited. 
+#Repository has been made on github in which changes has been commited. Collaborates has been added and the repository is public.  
 
